@@ -1,5 +1,3 @@
-![Screenshot 2025-03-03 115054](https://github.com/user-attachments/assets/5278ca57-6f25-4ff8-9b52-19da370d0e12)![Screenshot 2025-03-03 115054](https://github.com/user-attachments/assets/5f8843c2-bf19-433d-a9d0-999ea8fb520d)![Screenshot 2025-03-03 115054](https://github.com/user-attachments/assets/6a486cc9-45ca-4bc5-aa3a-ff5d03f3406f)# Developing a Neural Network Regression Model
-
 ## AIM
 
 To develop a neural network regression model for the given dataset.
